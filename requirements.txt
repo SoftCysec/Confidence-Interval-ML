@@ -7,3 +7,8 @@ pandas==1.2.3
 joblib==0.16.0
 scikit-learn
 tqdm==4.40.0
+jupyter==1.0.0
+jupyter-console==6.4.4
+qtconsole==5.4.0
+qtpy==2.3.0
+ipywidgets==8.0.3
