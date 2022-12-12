@@ -46,6 +46,7 @@ import streamlit as st
 import json
 import pandas as pd
 import numpy as np
+import sklearn
 from sklearn.linear_model import LinearRegression
 import scipy.stats as stats
 from sklearn.preprocessing import MinMaxScaler
